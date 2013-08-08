@@ -38,3 +38,4 @@ We covered the following patterns here:
 * prototype pattern - Creational
 * revealing module pattern - Creational
 * singleton pattern - Creational
+* strategy pattern - Behavioral
